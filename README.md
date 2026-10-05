@@ -15,7 +15,7 @@ iOS · Android · watchOS · Wear OS · macOS · Web
 
 ---
 
-I'm a Mumbai based developer with **7.5+ years in mobile** and **6.5+ years in Flutter**. I run **[Havabee](https://havabee.com/)**, my indie studio, where I build calm, ad-free apps with a generous free tier and beautiful design.
+I'm a Mumbai based developer with **8+ years in mobile** and **7+ years in Flutter**. I build calm, ad-free apps with a generous free tier and beautiful design.
 
 I love going past the Flutter layer into native territory: Apple Watch and Wear OS companions, home screen widgets, platform channels, and lately, macOS apps with Metal shaders.
 
@@ -29,15 +29,15 @@ I love going past the Flutter layer into native territory: Apple Watch and Wear 
 ## 🚀 Things I've built
 
 | App | What it does | Get it |
-|---|---|---|
-| 🫁 **Breathe** | Relax & focus with guided breathing. 2.2M+ downloads, 22K+ reviews, 18 languages. Google Play **Social Impact Star 2022** | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.breathe) · [App Store](https://apps.apple.com/us/app/breathe-relax-focus/id1506712199) |
-| ⌚ **Breathe for Watch** | Native companions on Apple Watch (SwiftUI, WatchConnectivity) and Wear OS (Jetpack Compose, rotary input) | Included with Breathe |
-| 🎧 **Sounds** | 70+ ambient sounds, custom mixes and a sleep timer, fully offline | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.sounds) · [App Store](https://apps.apple.com/us/app/sounds-focus-sleep/id6787421886) |
-| 💰 **Pocket** | Smart expense tracker with predictions, SMS parsing and widgets. 100% offline | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.pocket) · [App Store](https://apps.apple.com/us/app/pocket-expense-tracker/id6762511332) |
-| 🚭 **No Smoke** | Quit smoking companion with lung health tracking and craving support | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.nosmoke) · [App Store](https://apps.apple.com/us/app/no-smoke-quit-smoking-today/id6760675986) |
-| 🌍 **Time Travel** | World clocks for 50,000+ cities with live widgets | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.time_travel) · [App Store](https://apps.apple.com/us/app/time-travel-world-clocks/id6590632420) |
-| 💧 **Sip** | Water drop physics puzzle with 100 levels (Flutter + Flame + Forge2D) | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.sip) |
-| 💻 **Latch** | macOS menu bar app that reacts to your MacBook's lid hinge. SwiftUI, AppKit, Metal, IOKit. Zero network | [Mac App Store](https://apps.apple.com/us/app/latch-lid-actions-animations/id6811805898?mt=12) · [Demo](https://www.youtube.com/watch?v=8WfDlxDTp8M) |
+|:---:|---|---|
+| <img src="https://mustafabhatkar.dev/app_icons/app_icon.png" width="40" alt="Breathe"><br>**Breathe** | Relax & focus with guided breathing. 2.2M+ downloads, 22K+ reviews, 18 languages. Google Play **Social Impact Star 2022** | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.breathe) · [App Store](https://apps.apple.com/us/app/breathe-relax-focus/id1506712199) |
+| <img src="https://mustafabhatkar.dev/app_icons/app_icon.png" width="40" alt="Breathe Watch"><br>**Breathe for Watch** | Native companions on Apple Watch (SwiftUI, WatchConnectivity) and Wear OS (Jetpack Compose, rotary input) | Included with Breathe |
+| <img src="https://mustafabhatkar.dev/app_icons/sounds_icon.png" width="40" alt="Sounds"><br>**Sounds** | 70+ ambient sounds, custom mixes and a sleep timer, fully offline | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.sounds) · [App Store](https://apps.apple.com/us/app/sounds-focus-sleep/id6787421886) |
+| <img src="https://mustafabhatkar.dev/app_icons/pocket_icon.png" width="40" alt="Pocket"><br>**Pocket** | Smart expense tracker with predictions, SMS parsing and widgets. 100% offline | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.pocket) · [App Store](https://apps.apple.com/us/app/pocket-expense-tracker/id6762511332) |
+| <img src="https://mustafabhatkar.dev/app_icons/no_smoke_icon.png" width="40" alt="No Smoke"><br>**No Smoke** | Quit smoking companion with lung health tracking and craving support | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.nosmoke) · [App Store](https://apps.apple.com/us/app/no-smoke-quit-smoking-today/id6760675986) |
+| <img src="https://mustafabhatkar.dev/app_icons/time_travel_icon.png" width="40" alt="Time Travel"><br>**Time Travel** | World clocks for 50,000+ cities with live widgets | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.time_travel) · [App Store](https://apps.apple.com/us/app/time-travel-world-clocks/id6590632420) |
+| <img src="https://mustafabhatkar.dev/app_icons/sip_icon.png" width="40" alt="Sip"><br>**Sip** | Water drop physics puzzle with 100 levels (Flutter + Flame + Forge2D) | [Play Store](https://play.google.com/store/apps/details?id=com.havabee.sip) |
+| <img src="https://mustafabhatkar.dev/app_icons/latch_icon.png" width="40" alt="Latch"><br>**Latch** | macOS menu bar app that reacts to your MacBook's lid hinge. SwiftUI, AppKit, Metal, IOKit. Zero network | [Mac App Store](https://apps.apple.com/us/app/latch-lid-actions-animations/id6811805898?mt=12) · [Demo](https://www.youtube.com/watch?v=8WfDlxDTp8M) |
 
 👉 See everything in 3D on **[mustafabhatkar.dev](https://mustafabhatkar.dev)**
 
